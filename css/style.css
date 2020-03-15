@@ -122,11 +122,10 @@ a:hover {
 }
 
 #title_card #photo {
-    height: 200px;
-    width: 200px;
-    border-radius: 200px;
+    height: 300px;
+    width: 300px;
+    border-radius: 300px;
     box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.4);
-    overflow: auto;
 }
 
 #title_card #name {
